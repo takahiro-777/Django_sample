@@ -13,4 +13,7 @@ https://docs.djangoproject.com/ja/1.11/intro/install/
 ```
 $ cd Django_sample/
 $ pip install -r requirements.txt
+$ python -m django --version  #Pythonのバージョンの確認
+1.11.4
+$
 ```
